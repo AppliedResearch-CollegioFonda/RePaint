@@ -16,4 +16,6 @@ gdown https://drive.google.com/uc?id=1QEl-btGbzQz6IwkXiFGd49uQNTUtTHsk
 gdown https://drive.google.com/uc?id=1Q_dxuyI41AAmSv9ti3780BwaJQqwvwMv
 unzip data.zip
 rm data.zip
+
+gdown https://drive.google.com/drive/folders/1QHiCnwMK-wKkF73bJ-ne20pfWB-PulTE?usp=drive_link
 )
