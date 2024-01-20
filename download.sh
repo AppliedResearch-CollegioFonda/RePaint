@@ -13,10 +13,10 @@ wget https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffu
 )
 
 # data
-(
+#(
 #gdown https://drive.google.com/uc?id=1Q_dxuyI41AAmSv9ti3780BwaJQqwvwMv
 #unzip data.zip
 #rm data.zip
 
 #gdown https://drive.google.com/drive/folders/1QHiCnwMK-wKkF73bJ-ne20pfWB-PulTE?usp=drive_link -O /tmp/folder --folder
-)
+#)
