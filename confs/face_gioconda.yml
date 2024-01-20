@@ -52,7 +52,7 @@ use_ddim: false
 latex_name: RePaint
 method_name: Repaint
 image_size: 256
-model_path: ./data/pretrained/places256_300000.pt       #use places and not faces
+model_path: ./data/256x256_diffusion_uncond.pt     #use places and not faces ./data/pretrained/places256_300000.pt 
 name: face_example
 inpa_inj_sched_prev: true
 n_jobs: 1
